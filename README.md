@@ -19,4 +19,4 @@ I am a software developer focusing on:
 (Coming soon)
 
 ## 📫 Contact
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/omaewamou21
